@@ -102,4 +102,7 @@ func main()  {
 	fmt.Println(user.GetAge())
 
 	fmt.Println(user)
+
+
+	// ДОБАВИЛ КОД И ЗАПУШИЛ
 }
